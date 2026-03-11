@@ -13,3 +13,4 @@ The website demonstrates a basic CI/CD pipeline using GitHub Actions and GitHub 
 1. Download the repository.
 2. Open the folder.
 3. Double click on index.html to open the website in the browser.
+
